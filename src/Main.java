@@ -9,7 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         while (deposit == 0) {
             deposit = setNum("deposit");
         }
@@ -65,8 +64,4 @@ public class Main {
         numbers.add(deposit);
         return numbers;
     }
-
 }
-
-
-
